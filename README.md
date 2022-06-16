@@ -1,6 +1,5 @@
 # week-3-assignment
 
---Unfinished--
 
 # 3. Hafta Ödevler :
 
